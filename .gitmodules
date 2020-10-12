@@ -1,0 +1,6 @@
+[submodule "rep1"]
+	path = rep1
+	url = https://github.com/gmsotavio/rep1.git
+[submodule "rep2"]
+	path = rep2
+	url = https://github.com/gmsotavio/rep2.git
